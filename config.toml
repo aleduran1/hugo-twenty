@@ -51,11 +51,11 @@ content = "Looking for more information about something you've seen on our site?
 enable = true
 title = "Contact us for more information."
 [params.footer]
-address = "123 Main Street <br> New York, NY 10001"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+address = "723 Main Street <br> New York, NY 10001"
+content = "Europe-usa.com is a comprehensive resource for all types of gambling, with a focus on online gambling. It is managed by a committed group of individuals with extensive gambling expertise and experience."
+copyright = "Copyright &copy; 2021 Europe-usa.com"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-title = "About This Site"
+title = "About Europe-usa"
 [params.gallery]
 enable = false
 [[params.gallery.gallery_item]]
